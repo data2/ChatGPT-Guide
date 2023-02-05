@@ -1,6 +1,7 @@
 # ChatGPT-Guide
 ChatGPT指南，跟踪项目进展、资讯、使用教程
 
+## 最新资讯
 [介绍 ChatGPT Plus](https://github.com/data2/ChatGPT-Guide/blob/main/news/介绍ChatGPTPlus.md) 2023 年 2 月 1 日
 
 [用于指示 AI 编写的文本的新 AI 分类器](https://github.com/data2/ChatGPT-Guide/blob/main/news/用于指示AI编写的文本的新AI分类器.md) 2023 年 1 月 31 日 
